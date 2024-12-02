@@ -1,1 +1,1 @@
-# React Job web App + Vites
+# React Job web App + Vite
